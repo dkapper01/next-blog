@@ -1,8 +1,9 @@
 const siteMetadata = {
   title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
+  author: 'Daniel Kapper',
   headerTitle: 'Daniel Kapper',
-  description: 'A blog created with Next.js and Tailwind.css',
+  description:
+    'Hi, I am Daniel; I build cool stuff online and try to share what I am learning along the way.',
   language: 'en-us',
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
