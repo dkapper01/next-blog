@@ -11,6 +11,7 @@ export default function App({ Component, pageProps }) {
     <ThemeProvider attribute="class">
       <Head>
         <meta content="width=device-width, initial-scale=1" name="viewport" />
+        <script async src="https://cdn.splitbee.io/sb.js"></script>
       </Head>
       <Analytics />
       <LayoutWrapper>
