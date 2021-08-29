@@ -138,6 +138,7 @@ export const BlogSEO = ({ authorDetails, title, summary, date, lastmod, url, ima
         {date && <meta property="article:published_time" content={publishedAt} />}
         {lastmod && <meta property="article:modified_time" content={modifiedAt} />}
         <link rel="canonical" href={`${siteMetadata.siteUrl}${router.asPath}`} />
+        <script async src="https://cdn.splitbee.io/sb.js"></script>
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
