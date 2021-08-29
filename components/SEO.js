@@ -24,7 +24,6 @@ const CommonSEO = ({ title, description, ogType, ogImage, twImage }) => {
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={description} />
       <meta name="twitter:image" content={twImage} />
-      <script async src="https://cdn.splitbee.io/sb.js"></script>
     </Head>
   )
 }
