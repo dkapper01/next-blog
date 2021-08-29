@@ -9,7 +9,7 @@ const projectsData = [
     title: 'Jamstack24.com',
     description: `I automated my freelance work for designers. This site helps me narrow the focus of the type of work I take on. It also establishes fixed pricing upfront.`,
     imgSrc: '/static/images/jamstack24.png',
-    href: '/blog/the-time-machine',
+    href: 'https://www.jamstack24.com/',
   },
   {
     title: 'kodluyoruz.org',
