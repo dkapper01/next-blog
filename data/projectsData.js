@@ -12,13 +12,13 @@ const projectsData = [
     href: 'https://www.jamstack24.com/',
   },
   {
-    title: 'kodluyoruz.org',
+    title: 'Kodluyoruz.org',
     description: `Kodluyoruz works to make Turkey a worldwide talent hub in the tech sector by creating the right pathways for youth.`,
     imgSrc: '/static/images/kodluyoruz.png',
     href: 'https://www.kodluyoruz.org/',
   },
   {
-    title: 'jaminary.com',
+    title: 'Jaminary.com',
     description: `Jaminary is a web development agency that focuses on building websites using Jamstack architecture.`,
     imgSrc: '/static/images/jaminary.png',
     href: 'https://www.jaminary.com/',
