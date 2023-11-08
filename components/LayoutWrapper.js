@@ -18,7 +18,7 @@ const LayoutWrapper = ({ children }) => {
                 <div className="mr-3">
                   <Image
                     className="rounded-full"
-                    src="/../public/static/images/daniel_mexico_headshop.jpg"
+                    src="/static/images/me.jpeg"
                     alt="Daniel kapper picture"
                     width={50}
                     height={50}
